@@ -10,7 +10,7 @@ This project is a relational airline database management system. It incorporates
 
 To demonstrate how the database is built step-by-step from scratch, the project uses a **Migration**-based structure:
 
-``text
+```text
 airline-project/
 │
 ├── migrations/
@@ -20,7 +20,7 @@ airline-project/
 │
 ├── queries.sql                                
 └── README.md
-
+```
 ---
 
 ## Technologies Used
@@ -77,7 +77,7 @@ Bu proje, ilişkisel bir havayolu veritabanı yönetim sistemidir. Yabancı anah
 
 Veritabanının sıfırdan adım adım nasıl kurulduğunu göstermek amacıyla proje **Migration** tabanlı bir yapıda kurgulanmıştır:
 
-``text
+```text
 airline-project/
 │
 ├── migrations/
@@ -87,7 +87,7 @@ airline-project/
 │
 ├── queries.sql                                
 └── README.md
-
+```
 ---
 
 ## Kullanılan Teknolojiler
